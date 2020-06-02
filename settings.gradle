@@ -1,0 +1,3 @@
+rootProject.name='Library publish Project'
+include ':app'
+include ':logutil'
